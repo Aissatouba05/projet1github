@@ -1,0 +1,15 @@
+h1{
+    background-color: grey;
+    color: white;
+    height: 40px;
+   
+}
+h2{
+    border: 2px solid red;
+    color: red;
+    width: 400px;
+    padding: 2px;
+}
+.section{
+    margin-left: 3%
+}
